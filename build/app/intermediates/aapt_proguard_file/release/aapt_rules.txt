@@ -1,0 +1,2 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.example.mobile_app_exam.MainActivity { <init>(); }
