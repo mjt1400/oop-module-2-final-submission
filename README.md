@@ -1,5 +1,5 @@
 # oop-module-2-final-submission
-Old Repository Was Unsalvageable. 
+Old Repository Was Unsalvageable, so we made a new one.
 
 
 LIST OF CONTRIBUTIONS TO THE PROJECT:
