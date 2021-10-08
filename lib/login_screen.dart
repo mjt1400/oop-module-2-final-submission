@@ -1,3 +1,4 @@
+//Final Changes-from Tabuno
 import 'package:flutter/material.dart';
 import 'dashboard_screen.dart';
 
@@ -33,7 +34,7 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Login Screen'),
+          title: const Text('Login Screen.'),
           automaticallyImplyLeading: false,
         ),
         body: Padding(
